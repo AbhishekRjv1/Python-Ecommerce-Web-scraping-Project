@@ -1,0 +1,20 @@
+
+KPIs for MVideo website:-
+
+1) Selling Price
+2) Market Retail Price
+3) Discount
+4) Promotion
+5) Star Review
+6) Number of Reviews - Indirect indication of people buying
+
+
+
+KPIs for "The Whisky Exchange" website:- (link - https://www.thewhiskyexchange.com/p/43320/renegade-gin?suggested=true&source=featurepage&type=archive)
+
+1) Selling Price
+2) ex VAT Price
+3) Discounts
+4) Star Review
+5) Number of Reviews - Indirect indication of people buying
+

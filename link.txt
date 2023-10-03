@@ -1,0 +1,10 @@
+https://www.thewhiskyexchange.com/p/43320/renegade-gin?suggested=true&source=featurepage&type=archive
+https://www.thewhiskyexchange.com/p/6562/four-roses-small-batch-bourbon?suggested=true&source=productpage&type=recommended&sourceProductId=43320
+https://www.thewhiskyexchange.com/p/2282/tanqueray-malacca-gin-litre?suggested=true&source=productpage&type=recommended&sourceProductId=22415
+https://www.thewhiskyexchange.com/p/5369/rittenhouse-bottled-in-bond-straight-rye-100-proof?suggested=true&source=productpage&type=recommended&sourceProductId=6562
+https://www.thewhiskyexchange.com/p/1081/four-roses-original-yellow-label-bourbon?suggested=true&source=productpage&type=brand&sourceProductId=6562
+https://www.thewhiskyexchange.com/p/5861/bowmore-15-year-old?suggested=true&source=productpage&type=recommended&sourceProductId=1081
+https://www.thewhiskyexchange.com/p/3121/lagavulin-16-year-old?suggested=true&source=productpage&type=recommended&sourceProductId=5369
+https://www.thewhiskyexchange.com/p/6717/remy-martin-1738-accord-royal-cognac?suggested=true&source=productpage&type=recommended&sourceProductId=5369
+https://www.thewhiskyexchange.com/p/19992/eagle-rare-10-year-old?suggested=true&source=productpage&type=recommended&sourceProductId=5369
+https://www.thewhiskyexchange.com/p/15632/angels-envy-bourbon-port-finish?suggested=true&source=productpage&type=recommended&sourceProductId=19992
